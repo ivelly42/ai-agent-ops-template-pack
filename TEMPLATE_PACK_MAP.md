@@ -29,6 +29,8 @@ Use this map to choose the right Agent Ops Command Center preview before request
 | Workflow comparison | https://ivelly42.github.io/ai-agent-workflow-comparison-template/ |
 | Client delivery | https://ivelly42.github.io/ai-agent-client-delivery-kit/ |
 | All public previews | https://ivelly42.github.io/agent-ops-command-center/discovery.html |
+| Fast template-pack request page | https://ivelly42.github.io/agent-ops-command-center/template-pack-request.html |
+| Fast template-pack request form | https://github.com/ivelly42/agent-ops-command-center/issues/new?template=template-pack-request.yml |
 | Public Gist | https://gist.github.com/ivelly42/dac26c33334ab9b3367d2fc490c7aef5 |
 | GitHub Discussion | https://github.com/ivelly42/agent-ops-command-center/discussions/5 |
 
@@ -39,6 +41,8 @@ Invoice request packet: Agent Ops Command Center
 Request package: Team license - 7 seats - $203 gross
 Buyer need: AI-agent ops template pack for run logs, verification, cost tracking, ROI, procurement, security review, acceptance tests, prompt regression, model routing, workflow comparison, and delivery proof.
 Proof rule: Count revenue only after checkout, receipt, payout, or seller-dashboard evidence.
+Fast template request page: https://ivelly42.github.io/agent-ops-command-center/template-pack-request.html
+Fast template request form: https://github.com/ivelly42/agent-ops-command-center/issues/new?template=template-pack-request.yml
 Fast team request: https://ivelly42.github.io/agent-ops-command-center/team-checkout-request.html
 Discovery hub: https://ivelly42.github.io/agent-ops-command-center/discovery.html
 Template pack Gist: https://gist.github.com/ivelly42/dac26c33334ab9b3367d2fc490c7aef5

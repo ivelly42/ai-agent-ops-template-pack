@@ -14,6 +14,8 @@ This repository is also marked as a GitHub template repository so teams can fork
 - Template pack Discussion: https://github.com/ivelly42/agent-ops-command-center/discussions/5
 - GitHub template repository: https://github.com/ivelly42/ai-agent-ops-template-pack/generate
 - Main discovery hub: https://ivelly42.github.io/agent-ops-command-center/discovery.html
+- Fast template-pack request page: https://ivelly42.github.io/agent-ops-command-center/template-pack-request.html
+- Fast template-pack request form: https://github.com/ivelly42/agent-ops-command-center/issues/new?template=template-pack-request.yml
 - Fast $203 team request: https://ivelly42.github.io/agent-ops-command-center/team-checkout-request.html
 - Invoice request packet: https://ivelly42.github.io/agent-ops-command-center/team-invoice-request.html
 - Buy page: https://ivelly42.github.io/agent-ops-command-center/buy.html
@@ -39,6 +41,14 @@ This repository is also marked as a GitHub template repository so teams can fork
 - Individual seat: `$29`
 - Team license: seven seats for `$203`
 - One confirmed team payment reaches the `$200` gross target only after payment proof exists
+
+Open the fast template-pack request page:
+
+https://ivelly42.github.io/agent-ops-command-center/template-pack-request.html
+
+Open the direct template-pack request form:
+
+https://github.com/ivelly42/agent-ops-command-center/issues/new?template=template-pack-request.yml
 
 Open the fast team request:
 
