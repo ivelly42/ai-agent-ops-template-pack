@@ -4,12 +4,15 @@ Public discovery mirror for Agent Ops Command Center, a Notion and spreadsheet t
 
 This repository is a search and routing surface. The paid ZIP is not stored here.
 
+This repository is also marked as a GitHub template repository so teams can fork the public preview structure before requesting the paid pack.
+
 ## Main Links
 
 - Template pack map: https://ivelly42.github.io/ai-agent-ops-template-pack/TEMPLATE_PACK_MAP.md
 - Public Pages mirror: https://ivelly42.github.io/ai-agent-ops-template-pack/
 - Template pack Gist: https://gist.github.com/ivelly42/dac26c33334ab9b3367d2fc490c7aef5
 - Template pack Discussion: https://github.com/ivelly42/agent-ops-command-center/discussions/5
+- GitHub template repository: https://github.com/ivelly42/ai-agent-ops-template-pack/generate
 - Main discovery hub: https://ivelly42.github.io/agent-ops-command-center/discovery.html
 - Fast $203 team request: https://ivelly42.github.io/agent-ops-command-center/team-checkout-request.html
 - Invoice request packet: https://ivelly42.github.io/agent-ops-command-center/team-invoice-request.html
