@@ -29,6 +29,8 @@ Use this map to choose the right Agent Ops Command Center preview before request
 | Workflow comparison | https://ivelly42.github.io/ai-agent-workflow-comparison-template/ |
 | Client delivery | https://ivelly42.github.io/ai-agent-client-delivery-kit/ |
 | All public previews | https://ivelly42.github.io/agent-ops-command-center/discovery.html |
+| Public Gist | https://gist.github.com/ivelly42/dac26c33334ab9b3367d2fc490c7aef5 |
+| GitHub Discussion | https://github.com/ivelly42/agent-ops-command-center/discussions/5 |
 
 ## Request Copy
 
@@ -39,6 +41,8 @@ Buyer need: AI-agent ops template pack for run logs, verification, cost tracking
 Proof rule: Count revenue only after checkout, receipt, payout, or seller-dashboard evidence.
 Fast team request: https://ivelly42.github.io/agent-ops-command-center/team-checkout-request.html
 Discovery hub: https://ivelly42.github.io/agent-ops-command-center/discovery.html
+Template pack Gist: https://gist.github.com/ivelly42/dac26c33334ab9b3367d2fc490c7aef5
+Template pack Discussion: https://github.com/ivelly42/agent-ops-command-center/discussions/5
 ```
 
 ## Hold Rule
