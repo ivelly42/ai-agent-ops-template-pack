@@ -14,9 +14,10 @@ This repository is also marked as a GitHub template repository so teams can fork
 - Template pack Discussion: https://github.com/ivelly42/agent-ops-command-center/discussions/5
 - GitHub template repository: https://github.com/ivelly42/ai-agent-ops-template-pack/generate
 - Main discovery hub: https://ivelly42.github.io/agent-ops-command-center/discovery.html
-- Fast template-pack request page: https://ivelly42.github.io/agent-ops-command-center/template-pack-request.html
-- Fast template-pack request form: https://github.com/ivelly42/agent-ops-command-center/issues/new?template=template-pack-request.yml
-- Fast $203 team request: https://ivelly42.github.io/agent-ops-command-center/team-checkout-request.html
+- Primary $203 team request: https://ivelly42.github.io/agent-ops-command-center/team-request-url.html
+- Checkout status: https://ivelly42.github.io/agent-ops-command-center/checkout-status.json
+- Supporting template-pack request page: https://ivelly42.github.io/agent-ops-command-center/template-pack-request.html
+- Supporting template-pack request form: https://github.com/ivelly42/agent-ops-command-center/issues/new?template=template-pack-request.yml
 - Invoice request packet: https://ivelly42.github.io/agent-ops-command-center/team-invoice-request.html
 - Buy page: https://ivelly42.github.io/agent-ops-command-center/buy.html
 - Catalog JSON: https://ivelly42.github.io/agent-ops-command-center/catalog.json
@@ -42,17 +43,21 @@ This repository is also marked as a GitHub template repository so teams can fork
 - Team license: seven seats for `$203`
 - One confirmed team payment reaches the `$200` gross target only after payment proof exists
 
-Open the fast template-pack request page:
+Open the primary team request:
+
+https://ivelly42.github.io/agent-ops-command-center/team-request-url.html
+
+Open the checkout status:
+
+https://ivelly42.github.io/agent-ops-command-center/checkout-status.json
+
+Open the supporting template-pack request page:
 
 https://ivelly42.github.io/agent-ops-command-center/template-pack-request.html
 
-Open the direct template-pack request form:
+Open the supporting template-pack request form:
 
 https://github.com/ivelly42/agent-ops-command-center/issues/new?template=template-pack-request.yml
-
-Open the fast team request:
-
-https://ivelly42.github.io/agent-ops-command-center/team-checkout-request.html
 
 Open the invoice request packet:
 
